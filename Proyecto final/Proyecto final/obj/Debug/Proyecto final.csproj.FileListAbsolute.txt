@@ -1,0 +1,23 @@
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe.config
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\bin\Debug\Proyecto final.exe
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\bin\Debug\Proyecto final.pdb
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.AssemblyReference.cache
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Properties.Resources.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.GenerateResource.cache
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.csproj.CoreCompileInputs.cache
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.exe
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto final.pdb
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Admin.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Supervisor.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Empleado.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Reportes.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.EFAC.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FAC1.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FAC2.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FAC3.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FAC4.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Facturacion.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FN3.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.FN4.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Log.resources
+C:\Users\nrd26\source\repos\Proyecto final\Proyecto final\obj\Debug\Proyecto_final.Productos.resources
