@@ -34,5 +34,17 @@ namespace Proyecto_final
             MessageBox.Show("Buscando Actualizaciones....");
             MessageBox.Show("Posee la ultima versión de este programa.");
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Reportes frm = new Reportes();
+            frm.Show();
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            Facturacion frm = new Facturacion();
+            frm.Show();
+        }
     }
 }
